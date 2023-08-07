@@ -1,6 +1,6 @@
 # Agenda
 
-Nextflow Symposium will take place at the Kendrew Theatre in the EMBL-EBI South Building. If you are not familiar with the campus, please check out the [Logistics](logistics) page.
+Nextflow Symposium will take place at the Kendrew Theatre in the EMBL-EBI South Building. If you are not familiar with the campus, please check out the [Logistics](../logistics) page.
 
 <table>
   <tr>
