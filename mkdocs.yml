@@ -1,0 +1,9 @@
+site_name: Nextflow Symposium 2023
+theme:
+  name: material
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - md_in_html
