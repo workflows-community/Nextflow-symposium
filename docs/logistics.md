@@ -2,7 +2,7 @@
 
 Below you can see a map of the Wellcome Genome Campus, the event will take place in the EMBL-EBI south building which is marked on the map below.
 
-<img src="/assets/wgc-map.png"/>
+<img src="assets/wgc-map.png"/>
 
 ## Travel Information
 
@@ -10,7 +10,7 @@ EMBL-EBI is located on the Wellcome Genome Campus; 10 miles (16 km) south of Cam
 
 We offer a limited shuttle bus to campus from the nearby Whittlesford Parkway rail station. The timetable can be found below. Please note that campus staff will get priority for this bus, so we cannot guarantee you will get a seat, particularly at peak times.
 
-[Shuttle bus timetable](/assets/shuttle-may-23.pdf)
+[Shuttle bus timetable](assets/shuttle-may-23.pdf)
 
 We encourage the use of public transport and green travel wherever possible. If you plan to get a taxi from either Cambridge, Cambridge North, Whittlesford Parkway stations, or local airports, you may wish to contact other participants from the course to travel with you. Please note it is the responsibility of the participants to organise personal travel plans and make any necessary arrangements with others.
 
