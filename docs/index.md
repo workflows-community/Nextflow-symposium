@@ -5,8 +5,8 @@ Nextflow Symposium 2023 is a free, open to all event to bring the Cambridge and 
 **[Submit your abstracts](https://docs.google.com/forms/d/e/1FAIpQLSdpLMNAU3wXnJpxQSfcU-lY1RpZ3nu7-ZEWLqUYrswh_GzNFQ/viewform?usp=share_link)** by 20th October and don't forget to [register](https://docs.google.com/forms/d/e/1FAIpQLSd60ndombsvt4hCe85wa34tgB-nNCJPIU3PSrwpgnoKYvmnKg/viewform?usp=share_link).
 
 <p float="middle">
-  <img src="/assets/ebi-south.jpeg" width=300/>
-  <img src="/assets/wgc.jpeg" width=400/>
+  <img src="assets/ebi-south.jpeg" width=300/>
+  <img src="assets/wgc.jpeg" width=400/>
 </p>
 
 ## Key Dates
