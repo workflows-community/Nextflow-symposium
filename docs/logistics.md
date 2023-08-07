@@ -2,7 +2,10 @@
 
 Below you can see a map of the Wellcome Genome Campus, the event will take place in the EMBL-EBI south building which is marked on the map below.
 
-<img src="assets/wgc-map.png"/>
+<p float="left">
+  <img src="assets/ebi-south.jpeg" width=300/>
+  <img src="assets/wgc-map.png" width=400/>
+</p>
 
 ## Travel Information
 
