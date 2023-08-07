@@ -1,7 +1,13 @@
 site_name: Nextflow Symposium 2023
 theme:
   name: material
+  icon:
+    repo: fontawesome/brands/github
+    edit: material/pencil 
+    view: material/eye
 repo_url: https://github.com/workflows-community/nextflow-symposium
+repo_name: workflows-community/nextflow-symposium
+edit_uri: edit/main/docs/
 markdown_extensions:
   - attr_list
   - pymdownx.emoji:
