@@ -1,7 +1,7 @@
 site_name: Nextflow Symposium 2023
 theme:
   name: material
-repo_url: https://github.com/https://github.com/workflows-community/nextflow-symposium
+repo_url: https://github.com/workflows-community/nextflow-symposium
 markdown_extensions:
   - attr_list
   - pymdownx.emoji:
