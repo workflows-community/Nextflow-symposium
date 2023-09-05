@@ -34,27 +34,27 @@ Nextflow Symposium will take place at the Kendrew Theatre in the EMBL-EBI South 
     <td></td>
   </tr>
   <tr>
-    <td>13:30</td>
+    <td>13:00</td>
     <td>nf-core</td>
     <td><!---<a href="/speakers/#harshil-patel">Harshil Patel</a>---></td>
   </tr>
   <tr>
-    <td>14:00</td>
+    <td>13:45</td>
     <td>Long Talks</td>
     <td></td>
   </tr>
   <tr>
-    <td>15:00</td>
+    <td>14:45</td>
     <td>Panel Discussion – Scaling Sustainably</td>
     <td></td>
   </tr>
   <tr>
-    <td>16:00</td>
+    <td>15:45</td>
     <td>Closing Remarks</td>
     <td></td>
   </tr>
   <tr>
-    <td>16:15</td>
+    <td>16:00</td>
     <td>Drinks and Poster Viewing</td>
     <td></td>
   </tr>
