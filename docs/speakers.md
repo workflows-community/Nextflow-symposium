@@ -1,5 +1,7 @@
 # Speakers
 
+### **Coming Soon**
+
 <!---
 <img src="assets/..." align=left width=100/>
 ### **Paolo di Tommaso**
